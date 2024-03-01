@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm a passionate MERN stack developer  with 1 years of experience in building web applications.
+I'm a passionate MERN stack developer  with 2 years of experience in building web applications.
 I have a passion for learning and sharing my knowledge with others as publicly as possible.
 I have experience working with React.js, Node.js, and MongoDB.
 I'm also familiar with TypeScript, Angular, and Linux. 
