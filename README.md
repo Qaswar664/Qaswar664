@@ -15,6 +15,6 @@ Let's collaborate and bring your visions to life! 💻🚀
 Previous Experience: I have been a React.js and MERN stack at the Enigmatx pvt ltd and AlfaOrigin Software House.
 Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.I also worked on some basic Mobile application for android and IOS.
 
-#Education
+# Education
 
 I hold a Bachelor's degree in Information Technology from Bahauddin Zakariya University.
