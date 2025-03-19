@@ -57,7 +57,7 @@ I'm always on the lookout for new tech trends, and I enjoy optimizing code for b
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qaswar664) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adilmustafa7767/](https://www.linkedin.com/in/qaswar-ahmad-a22bb4243/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/adilmustafa7767/](https://www.linkedin.com/in/qaswar-ahmad-a22bb4243/)](https://www.linkedin.com/in/qaswar-ahmad-a22bb4243/))
 
 📧 **Email:** [qaswarahmad2019@gmail.com](mailto:qaswarahmad2019@gmail.com)
 
