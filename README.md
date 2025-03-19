@@ -5,7 +5,7 @@
 
 # About Me
 
-👋 **Hello! I'm Adil Mustafa**
+👋 **Hello! I'm Qaswar Ahmad**
 
 🚀 **MERN Stack Developer** with a passion for building modern, scalable, and user-friendly web and mobile applications. I specialize in the latest technologies including **React Native, React.js, Next.js, Node.js, TypeScript and JavaScript**.
 
